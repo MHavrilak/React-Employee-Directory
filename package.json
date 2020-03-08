@@ -1,0 +1,25 @@
+{
+  "name": "react-employee-directory",
+  "version": "1.0.0",
+  "description": "employee directory with React",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node": "^13.10.1",
+    "react": "^16.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHavrilak/React-Employee-Directory.git"
+  },
+  "author": "Mike Havrilak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHavrilak/React-Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/MHavrilak/React-Employee-Directory#readme"
+}
