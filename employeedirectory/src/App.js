@@ -8,7 +8,7 @@ function App() {
         <Router>
             <div>
                 <Wrapper>
-                    <Route exact path="/SearchForm" component={SearchForm} />
+                    <Route path="/" component={SearchForm} />
 
                 </Wrapper>
             </div>
